@@ -1,2 +1,0 @@
-# SvgPaintingView
-svg painting view

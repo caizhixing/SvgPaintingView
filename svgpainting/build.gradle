@@ -1,13 +1,8 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-apply plugin: 'com.jfrog.bintray'
-version = "1.0.0" // 版本号
 
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
-    resourcePrefix "SvgPaintingView" // 随意命名
-
 
     defaultConfig {
         minSdkVersion 21

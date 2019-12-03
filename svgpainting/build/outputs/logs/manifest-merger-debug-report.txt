@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+	package
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:1-2:53
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		ADDED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml
+		INJECTED from W:\work_india\SvgPaintingView\svgpainting\src\main\AndroidManifest.xml

@@ -1,0 +1,2 @@
+include ':sample', ':svgpainting'
+rootProject.name='SVGPaintingView'
